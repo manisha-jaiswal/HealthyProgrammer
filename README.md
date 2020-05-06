@@ -1,10 +1,4 @@
- HealthyProgrammer
-#9am - 5pm
-# Water - water.mp3 (3.5 litres) - Drank - log - Every 40 min
-# Eyes - eyes.mp3 - every 30 min - EyDone - log - Every 30 min
-# Physical activity - physical.mp3 every - 45 min - ExDone - log
-# Rules
-# Pygame module to play audio
+ #HealthyProgrammer
 
 We all programmers works very hard and some of us sit on chair and do the programming more than 8 hours.
 
@@ -14,18 +8,18 @@ To solve this problem I have make a program wich alert us to drink water , eyes 
 
 It will also make saves your log in a file which you enter in the program
 
-Requirements
+#Requirements
 python3 and pygame module
 
-File required
+#File required
 water.mp3 , eyes.mp3 , physical.mp3
 
-How to install pygame module
+#How to install pygame module
 Simply you have to only run this command on your terminal or command prompt
 
 pip install pygame
 
-Author
+#Author
 Name = Manisha Jaiswal
 Class = MCA
 you can use this code for any purpose
