@@ -9,17 +9,23 @@ To solve this problem I have make a program wich alert us to drink water , eyes 
 It will also make saves your log in a file which you enter in the program
 
 #Requirements
+
 python3 and pygame module
 
 #File required
+
 water.mp3 , eyes.mp3 , physical.mp3
 
 #How to install pygame module
+
 Simply you have to only run this command on your terminal or command prompt
 
 pip install pygame
 
 #Author
+
 Name = Manisha Jaiswal
+
 Class = MCA
+
 you can use this code for any purpose
