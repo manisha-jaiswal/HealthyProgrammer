@@ -1,4 +1,4 @@
- #HealthyProgrammer
+ HealthyProgrammer
 
 We all programmers works very hard and some of us sit on chair and do the programming more than 8 hours.
 
@@ -8,21 +8,21 @@ To solve this problem I have make a program wich alert us to drink water , eyes 
 
 It will also make saves your log in a file which you enter in the program
 
-#Requirements
+Requirements
 
 python3 and pygame module
 
-#File required
+File required
 
 water.mp3 , eyes.mp3 , physical.mp3
 
-#How to install pygame module
+How to install pygame module
 
 Simply you have to only run this command on your terminal or command prompt
 
 pip install pygame
 
-#Author
+Author
 
 Name = Manisha Jaiswal
 
